@@ -1,0 +1,10 @@
+body {
+   font-family: Ubuntu, sans-serif;
+}
+
+.section {
+    border-radius: 5px;
+    border-color: black;
+    border-width: thin;
+    border-style: solid;
+}
