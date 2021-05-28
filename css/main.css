@@ -3,8 +3,12 @@ body {
 }
 
 .section {
-    border-radius: 5px;
+    border-radius: 3px;
     border-color: black;
     border-width: thin;
     border-style: solid;
+}
+
+.bg-semidark {
+    background-color: #343a402e !important;
 }
